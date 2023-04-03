@@ -1,0 +1,9 @@
+DBVisualizer - https://www.dbvis.com
+Open Source Free version and DBVisalizerPro is a commercial edition
+As a universal database management tool, DBVisualizer does not have its own data model. 
+Instead, it supports the data models of the various databases it can connect to. 
+This includes relational databases like MySQL, PostgreSQL, and Oracle; NoSQL databases like MongoDB; and in-memory databases like H2 and SQLite.
+DBVisualizer is a desktop application that runs on your local machine. 
+It connects to local or remote databases and helps you manage tables, views, stored procedures, and perform various database operations
+Since DBVisualizer is a GUI tool, Java and Python do not access it directly.
+However, you can use Java and Python to interact with the various databases that DBVisualizer supports.
