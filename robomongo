@@ -1,0 +1,25 @@
+Robomongo or Robo 3T - https://robomongo.org
+
+Open Source
+As Robo 3T is a GUI for MongoDB, it uses the same data model as MongoDB. 
+MongoDB is a document-oriented NoSQL database that stores data in BSON format (Binary JSON), 
+which is a binary-encoded serialization of JSON-like documents. 
+It supports a flexible schema, allowing documents in a collection to have different fields and structures.
+
+Robo 3T is a desktop application that runs on your local machine. 
+It connects to local or remote MongoDB instances and helps you manage databases, collections, documents, and perform various database operations. 
+It does not host the MongoDB instance itself.
+
+Since Robo 3T is a GUI tool, Java and Python do not access it directly. 
+However, you can use Java and Python to interact with MongoDB, the database that Robo 3T manages.
+
+
+*** HOW IT IS DIFFERENT ***
+
+Robomongo is not a database itself but a graphical user interface (GUI) for managing MongoDB databases. 
+Therefore, it does not have its own database model but uses the data model of MongoDB.
+
+MongoDB uses a document-oriented data model, where data is stored in BSON format (Binary JSON). 
+It allows for flexible schema, meaning documents in a collection can have varying fields and structures. 
+Relational databases like MySQL, PostgreSQL, and Oracle use a relational data model, where data is organized into tables with rows and columns. 
+In relational databases, schema is predefined, and all rows in a table must conform to this schema.
