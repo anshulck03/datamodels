@@ -7,4 +7,4 @@
 - CouchDB: couchdb.md
 - Neo4js: neo4js.md
 - robomongo: robomong.md
-- clouedera: clouedera.md
+- cloudera: cloudera.md
