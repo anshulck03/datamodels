@@ -1,0 +1,6 @@
+CouchDB - https://couchdb.apache.org
+Open Source
+CouchDB uses a document-oriented data model, where data is stored as JSON documents.
+CouchDB is a server-based solution that runs as a separate process, typically on a remote server, 
+but it can also be hosted on a local machine or in a containerized environment
+Both Java and Python have libraries that allow easy interaction with CouchDB databases.
